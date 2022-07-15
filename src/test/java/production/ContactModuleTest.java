@@ -12,4 +12,10 @@ public void createOrganizationTest() {
 	System.out.println("createOrganizationTest executed");
 	System.out.println("I'm Suvendu");
 }
+@Test
+public void m1()
+{
+	System.out.println("sdfghj");
 }
+}
+
