@@ -15,7 +15,7 @@ public void createOrganizationTest() {
 @Test
 public void m1()
 {
-	System.out.println("sdfghj");
+	System.out.println("sdfghj kumar");
 }
 }
 
